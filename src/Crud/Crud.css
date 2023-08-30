@@ -1,0 +1,37 @@
+.container{
+    width: 100vw;
+    background-color: rgb(204, 230, 230);
+}
+.tablerow{
+    background-color: rgb(202, 172, 230);
+}
+.tablediscription{
+    text-align: center;
+    background-color: rgba(158, 223, 38, 0.349);
+}
+.idnumber{
+    text-align: center;
+}
+.tablemain{
+    background-color: rgba(9, 48, 48, 0.466);
+}
+.wrapperbtn{
+    /* flex-direction: column; */
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn{
+    background-color: rgb(162, 176, 189);
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 5px;
+}
+.btn2{
+    background-color: rgb(162, 176, 189);
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 5px;
+}
+
+
+
